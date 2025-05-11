@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "stock",
+      "type": "org.unify.framework.config.StockConfig",
+      "sourceType": "org.unify.framework.config.StockConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "stock.products",
+      "type": "java.util.List<org.unify.framework.config.ProductConfig>",
+      "sourceType": "org.unify.framework.config.StockConfig"
+    }
+  ],
+  "hints": []
+}

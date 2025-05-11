@@ -1,0 +1,6 @@
+META-INF/spring-configuration-metadata.json
+org/unify/framework/adapters/ShoppingServiceInputAdapter.class
+org/unify/framework/adapters/StockInitializerInputAdapter.class
+org/unify/framework/config/StockConfig.class
+org/unify/framework/config/BasketServiceInputPortConfiguration.class
+org/unify/framework/config/ProductConfig.class

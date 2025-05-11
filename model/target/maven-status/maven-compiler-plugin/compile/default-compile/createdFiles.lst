@@ -1,0 +1,6 @@
+org/unify/model/enums/Unit.class
+org/unify/model/Basket.class
+org/unify/model/Product.class
+org/unify/model/Stock.class
+org/unify/model/Shop.class
+org/unify/model/enums/Commands.class

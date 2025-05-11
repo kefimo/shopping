@@ -1,0 +1,5 @@
+org/unify/services/usecases/BasketServiceUseCase.class
+org/unify/services/usecases/DiscountStrategyUseCase.class
+org/unify/services/port/BasketServiceInputPort.class
+org/unify/services/usecases/StockInitializerUseCase.class
+org/unify/services/usecases/ShoppingServiceUseCase.class
